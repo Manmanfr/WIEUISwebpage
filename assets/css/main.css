@@ -2580,6 +2580,69 @@ input, select, textarea {
 					border-color: #616763;
 				}
 
+/* News Banner */
+
+	#newsbanner {
+		position: relative;
+		background-image: url("images/overlay.png"), url("images/overlay.png"), url("images/News\ banner.jpeg");
+		background-position: top left, top left, center center;
+		background-repeat: repeat, repeat, no-repeat;
+		background-size: auto, auto, cover;
+		z-index: 1;
+		padding: 11em 0;
+	}
+		
+
+		#newsbanner .content {
+			position: relative;
+			background-color: #6b2e6976;
+			background-image: url("images/overlay.png"), url("images/highlight.png");
+			background-position: top left, center center;
+			background-size: auto, 100% 250%;
+			background-repeat: repeat, no-repeat;
+			text-align: center;
+			margin: 0;
+			padding: 4em 0 3.5em 0;
+		}
+
+			#newsbanner .content h2 {
+				color: #19010c;
+				font-size: 2.75em;
+				margin: 0 0 0.5em 0;
+			}
+
+			#newsbanner .content p {
+				display: block;
+				font-family: 'Open Sans Condensed', sans-serif;
+				font-weight: 700;
+				text-transform: uppercase;
+				color: #19010c;
+				font-size: 1.35em;
+				margin: 0 0 1.25em 0;
+			}
+
+			#newsbanner .content .button {
+				-moz-transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				transition: border-color .2s ease-in-out, color .2s ease-in-out;
+				color: #19010c;
+				background: transparent !important;
+				border: solid 4px #575d59;
+				border-color: #19010c;
+				font-size: 1.5em;
+			}
+
+				#newsbanner .content .button:hover {
+					color: #e4e7e5;
+					border-color: rgba(87, 93, 89, 0.75);
+				}
+
+				#newsbanner .content .button:active {
+					color: #fff;
+					border-color: #616763;
+				}
+
 /* Main */
 
 	#main {
@@ -3153,3 +3216,43 @@ input, select, textarea {
 			}
 
 	}
+
+.news-card {
+    display: block;
+    text-decoration: none;
+    margin-bottom: 2em;
+}
+
+.news-card-inner {
+    border: 2px solid #107805e1;
+    border-radius: 10px;
+    overflow: hidden;
+    background: rgba(0,0,0,0.15);
+    transition: transform 0.2s;
+}
+
+.news-card-inner:hover {
+    transform: translateY(-5px);
+}
+
+.news-card-inner img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+.news-card-title {
+    padding: 1em;
+}
+
+.news-card-title h3 {
+    color: #ffffff;
+    margin: 0.3em 0 0 0;
+    font-size: 1em;
+}
+
+.news-card-title span {
+    color: #d4b8d3;
+    font-size: 0.75em;
+}

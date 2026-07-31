@@ -1,0 +1,29 @@
+[
+  {
+    "id": "Talk-Exploradoras-del-futuro",
+    "title": "Talk: Exploradoras del futuro",
+    "subtitle": "Inspiring young women to get involved in STEM",
+    "date": "09/05/26",
+    "preview": "We visited Morrorico neighborhood to motivate the youth to study STEM fields...",
+    "image": "images/Morrorico.jpg",
+    "content": "<p>Last May 9th, WIE UIS partnered with <strong>Bucaratech</strong> and <strong>Women in Tech</strong> to visit more than 30 children from the Morrorico neighborhood in Bucaramanga. The goal of this visit was to motivate young women from the community to explore STEM-related fields, taking that into account, we decided to put together some activities that were aimed towards the computer sciences field.</p><span class='image featured'><img src='images/Morrorico1.jpg' alt='Morrorico visit'/></span><p>By the end of the day, the kids had learned about the history of computer science, how the field has evolved to where it is today, and some of its current applications such as <strong>computer vision</strong>. It was a rewarding experience for everyone involved.</p><span class='image featured'><img src='images/Morrorico2.jpg' alt='Morrorico activities'/></span><p>Want to keep up with our activities? Follow us on <a href='https://www.instagram.com/wie.uis/' target='_blank'>Instagram</a> for updates!</p>"
+  },
+  {
+    "id": "ingeniamujer-week",
+    "title": "Ingeniamujer Week",
+    "subtitle": "Trayectorias con impacto",
+    "date": "09/03/2026",
+    "preview": "This year we started a new series of activities called Ingeniamujer: Trayectorias con impacto, held the week before international women's day...",
+    "image": "images/pic05.jpg",
+    "content": "<p>To commemorate <strong>International Women's Day</strong>, WIE UIS organized our first ever <strong>Ingeniamujer Week</strong>, held between March 2nd and March 6th. The event brought together a variety of activities designed to create meaningful spaces for women in STEM:</p><ul><li>Film screenings</li><li>Guided visits</li><li>Talks by women researchers</li><li>Workshops</li></ul><p>Our goals were: to promote spaces where women could acquire new knowledge in STEM fields, to help women researchers share their findings with a wider audience, and to celebrate culture through our film screenings.</p><h3>Talks</h3><p>We held three talks covering exciting topics: <strong>imaging</strong>, <strong>renewable energies</strong>, and <strong>optical physics</strong>, all delivered by remarkable women working in these fields.</p><h3>Guided Visits</h3><p>We also organized two guided visits. The first took place at <strong>UIS' research laboratories in Guatiguará</strong>, where participants got a firsthand look at where much of UIS' cutting-edge research happens. The second was a visit to <strong>GOTS</strong> (Grupo de Óptica y Tratamiento de Señales), UIS' optical physics research group.</p><p>We are thrilled with the results of our first Ingeniamujer Week and are already looking forward to creating more spaces like this. If you would like to support this goal, <a href='https://www.instagram.com/wie.uis/' target='_blank'>contact us</a> — we would love to hear from you!</p>"
+  },
+  {
+    "id": "guided-visits",
+    "title": "Get registered for Ingeniamujer week’s guided visits!",
+    "subtitle": "",
+    "date": "27/02/26",
+    "preview": "For our first Ingeniamujer Week we organized two guided visits open for registration...",
+    "image": "images/IngeniamujerRegister.jpg",
+    "content": "<p>For our first <strong>Ingeniamujer Week</strong> we organized two guided visits open for registration. Here's everything you need to know:</p><h3>Visit 1 — UIS Laboratories, Guatiguará</h3><p>Our first guided visit will take you to <strong>UIS' research laboratories in Guatiguará</strong>. This is a unique opportunity to see these spaces up close and learn about the work being done there. The visit will take place on <strong>March 5th</strong>. Scan the QR code below to register:</p><span class='image featured'><img src='images/QR_Guatiguara.png' alt='QR code for Guatiguará visit registration'/></span><h3>Visit 2 — GOTS Laboratories, UIS Main Campus</h3><p>Our second guided visit will take place at the laboratories of <strong>GOTS</strong> (Grupo de Óptica y Tratamiento de Señales), UIS' only research group dedicated to <strong>optical physics</strong> and signal processing. If you are curious about these fields and want to see the research in action, this visit is for you. It will also take place on <strong>March 5th</strong>. Scan the QR code below to register:</p><span class='image featured'><img src='images/QR_GOTS.png' alt='QR code for GOTS visit registration'/></span>"
+  }
+]
