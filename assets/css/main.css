@@ -2616,7 +2616,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #19010c;
+				color: #fff;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
 			}
@@ -2626,10 +2626,10 @@ input, select, textarea {
 				-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				transition: border-color .2s ease-in-out, color .2s ease-in-out;
-				color: #19010c;
+				color: #fff;
 				background: transparent !important;
 				border: solid 4px #575d59;
-				border-color: #19010c;
+				border-color: #fff;
 				font-size: 1.5em;
 			}
 
